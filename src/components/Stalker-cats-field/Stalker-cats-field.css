@@ -1,0 +1,14 @@
+.stalker-cat-field{
+  position:fixed;
+  height: 100vh;
+}
+
+.stalker-cat{
+  position: absolute;
+   width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-image: url("/src/assets/icon/british-shorthair-cat.svg");
+  background-repeat: no-repeat;
+  transition: all 0.4s ease-in;
+}
