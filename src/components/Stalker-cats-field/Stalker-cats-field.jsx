@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./stalker-cats-field.css";
+import "./Stalker-cats-field.css";
 
 export default class StalkerCatsField extends Component {
 

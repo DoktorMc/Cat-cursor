@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 
 import "./App.css";
-import StalkerCatsField from "./components/stalker-cats-field";
-import StalkerCatHaeder from "./components/stalker-cat-header";
+import StalkerCatsField from "./components/Stalker-cats-field";
+import StalkerCatHaeder from "./components/Stalker-cat-header";
 
 export default class App extends Component {
   state = {

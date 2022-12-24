@@ -1,3 +1,3 @@
-import StalkerCatsField from "./stalker-cats-field";
+import StalkerCatsField from "./Stalker-cats-field";
 
 export default StalkerCatsField;

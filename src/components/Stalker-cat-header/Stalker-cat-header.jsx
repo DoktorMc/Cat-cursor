@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./stalker-cat-header.css";
+import "./Stalker-cat-header.css";
 
 export default class StalkerCatHaeder extends Component {
   state = {
